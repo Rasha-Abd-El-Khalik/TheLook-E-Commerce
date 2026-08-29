@@ -22,8 +22,8 @@ The analysis covers the entire e-commerce lifecycle: from user acquisition and d
 📦 TheLook-Ecommerce-Analysis
  ┣ 📂 SQL
  ┃ ┗ 📜 view.sql                        # SQL scripts used to extract, clean, and model the customer journey data from BigQuery
- ┣ 📂 Dashboard & Analysis
- ┃ ┗ 📜 Analysis.pbix                   # The main interactive Power BI project file
+ ┣ 📂  Analysis & Dashboard 
+ ┃ ┗ 📜 Analysis.pbit                   # The main interactive Power BI project file
  ┣ 📂 Screenshots
  ┃ ┣ 🖼️ User.jpg                        # Snapshot of the Users & Demographics page
  ┃ ┣ 🖼️ Orders& Revenue.jpg             # Snapshot of the Orders & Revenue page
